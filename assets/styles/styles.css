@@ -19,3 +19,12 @@ header {
 	position: fixed;
 	max-block-size: 80px;
   }
+
+nav a {
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	margin: auto;
+	padding: 30px;
+	transition: transform 0.3s ease-in-out;
+  }
