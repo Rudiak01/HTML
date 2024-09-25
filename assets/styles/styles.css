@@ -1,0 +1,21 @@
+html{
+	font-size:200%
+	
+}
+.décalage {
+	margin:0 auto;
+	padding:0 850px 0px 0px;
+}
+
+header {
+	background-color: #000;
+	top: 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+	z-index: 100;
+	position: fixed;
+	max-block-size: 80px;
+  }
